@@ -108,9 +108,10 @@ resource "google_storage_bucket" "bucket" {
 }
 
 resource "google_storage_bucket_iam_member" "bucket_admin" {
-  for_each = local.project_user_list
+  for_each = { for pu in local.project_user_list : "${pu.project}-${pu.user}" => pu }
 
   bucket = google_storage_bucket.bucket[each.value.project].name
   role   = "roles/storage.admin"
   member = "user:${each.value.user}"
 }
+
