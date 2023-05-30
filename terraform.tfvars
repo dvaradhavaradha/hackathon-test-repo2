@@ -1,1 +1,1 @@
-project_user_map = {"gee-swapnil-230133": ["swap83k@gmail.com", "dvaradha@varadha.co.in"], "gee-jan-230133": ["priya.gjayaraman@gmail.com", "dvaradha@varadha.co.in"]}
+project_user_map = {"gee-swapnil-230133": ["swap83k@gmail.com", "dvaradha@varadha.co.in"], "gee-jan-230133": ["priya.gjayaraman@gmail.com", "dvaradha@varadha.co.in"], "traininglab": ["abc.xyz@gmail.com", "adf.adf@gmail.com"]}
