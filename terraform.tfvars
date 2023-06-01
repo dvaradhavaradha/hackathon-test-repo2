@@ -1,1 +1,1 @@
-project_user_map = {"lab-12344897": ["ram.tripathi@softomatic.tech", "ram-shankar.tripathi@breakingwave.io"], "navodit435": ["dvaradha@gmail.com", "dvaradha@varadha.co.in"], "traininglab-06-1-18-9": ["ram.tripathi@softomatic.tech", "ram-shankar.tripathi@db.com"], "lab-06-1-23-185": ["ram.tripathi@softomatic.tech", "dvaradha@varadha.co.in"]}
+project_user_map = {}
